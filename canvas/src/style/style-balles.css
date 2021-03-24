@@ -1,0 +1,15 @@
+
+body {
+  background-color: black;
+  text-align : center;
+}
+#terrain {
+  background-color : green;
+  border : solid 10px white;
+
+}
+
+div#control {
+  text-align : center;
+  margin : 10px;
+}
